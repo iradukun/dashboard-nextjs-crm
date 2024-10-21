@@ -9,7 +9,6 @@ const fetchCustomers = async (): Promise<Person[]> => {
   });
   return data;
 };
-
 const fetchTraffic = async (): Promise<Traffic[]> => {
   const { data } = await axios.get(process.env.NEXT_PUBLIC_TRAFFIC_API_URL!, {
     params: {
