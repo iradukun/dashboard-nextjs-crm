@@ -21,7 +21,7 @@ A simple Next.js web application that fetches and visualizes website visit data 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-next-app.git
+   git clone https://github.com/iradukun/dashboard-nextjs-crm.git
    cd dashboard
 ```
 
