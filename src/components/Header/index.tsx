@@ -1,5 +1,5 @@
 import Link from "next/link";
-import ThemeSwitcher from "./ThemeSwitcher";
+// import ThemeSwitcher from "./ThemeSwitcher";
 import DropdownUser from "./DropdownUser";
 import Image from "next/image";
 import { formatter } from "@/utils/formatter";

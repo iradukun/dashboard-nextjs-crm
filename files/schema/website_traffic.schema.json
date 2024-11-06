@@ -1,5 +1,4 @@
 {
-  "id": 653954,
   "num_rows": 30,
   "file_format": "json",
   "name": "website_traffic",
@@ -39,16 +38,6 @@
       "min": 0,
       "max": 3600,
       "decimals": 0,
-      "formula": null
-    },
-    {
-      "name": "date",
-      "null_percentage": 0,
-      "type": "Dataset Column",
-      "dataset": "date",
-      "column": null,
-      "selectionStyle": "sequential",
-      "distribution": null,
       "formula": null
     }
   ]
